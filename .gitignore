@@ -1,1 +1,4 @@
 images/*.iso
+images/*.ova
+
+storage/Box/*
