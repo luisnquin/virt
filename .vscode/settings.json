@@ -1,0 +1,8 @@
+{
+    "material-icon-theme.files.associations": {
+        "*.ova": "Disc"
+    },
+    "material-icon-theme.folders.associations": {
+        "storage": "Lib"
+    }
+}
